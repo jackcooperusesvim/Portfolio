@@ -1,0 +1,2 @@
+run: 
+	less README.md
