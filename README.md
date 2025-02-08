@@ -11,7 +11,7 @@ The directories which do not contain fully runnable and testable code will have 
 
 # List of Projects
 
-## CRUD App | GO|
+## CRUD App | GO |
 I wanted to build our local Homeschool Co-op a better website, because the Treasurer (my Mom), had inherited a horrenous Excel workbook for a database and would pull her hair for hours to change one field on one record. The project didn't work out for people reasons, but I did learn a lot about Web Development from it.
 
 ## Mancala AI | Rust |
