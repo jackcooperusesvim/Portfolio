@@ -4,8 +4,8 @@ This is a small collection of some of the things I have programmed over the past
 
 To look into any of the projects, all you need to do is change into the directory and make that directory.
 
-For example, to check out the "go_webapp" project, all you need to do is this:
-cd go_webapp && make
+For example, to check out the "CoopGo" project, all you need to do is this:
+cd CoopGo && make
 
 The directories which do not contain fully runnable and testable code will have guidance on reading the code instead.
 
