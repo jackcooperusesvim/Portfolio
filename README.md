@@ -17,7 +17,7 @@ I wanted to build our local Homeschool Co-op a better website, because the Treas
 ## Mancala AI (Rust)
 I wanted to learn Rust (for reasons I don't want to tell all of GitHub), and this was one of my first mini-projects in the language. It is a simple AI I built for playing the game Mancala, and while I doesn't have a UI yet, I am quite proud of it.
 
-## Machine Learning Library (Rust) CURRENTLY WORKING ON THIS
+## Machine Learning Library (Rust) (WIP)
 This is the project I am currently working on. In an effort to study current Data Science, Machine Learning, and AI algorithms, I started this project to re-implement all popular Machine Learning algorithms, starting with a Neural Network to recognize handwritten digits (using the MNIST dataset).
 
 ## MonkeyType Analysis (Python)
