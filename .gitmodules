@@ -4,3 +4,6 @@
 [submodule "rust_mnist"]
 	path = rust_mnist
 	url = https://github.com/jackcooperusesvim/rust_mnist.git
+[submodule "rust_mancala"]
+	path = rust_mancala
+	url = https://github.com/jackcooperusesvim/rust_mancala.git
