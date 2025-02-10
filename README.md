@@ -21,4 +21,4 @@ I wanted to learn Rust (for reasons I don't want to tell all of GitHub), and thi
 This is the project I am currently working on. In an effort to study current Data Science, Machine Learning, and AI algorithms, I started this project to re-implement all popular Machine Learning algorithms, starting with a Neural Network to recognize handwritten digits (using the MNIST dataset).
 
 ## MonkeyType Analysis (Python)
-This entry in the portfolio is done but not presentable yet due to some of the annoyances of using Python virtual enviorments with Git version control. I will make this presentable by the end of the day.
+This entry in the portfolio is done but not presentable yet due to some of the annoyances of using Python virtual enviorments with Git version control.
